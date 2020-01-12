@@ -1,5 +1,5 @@
-static char *ssid = "SysPro"; //IoT
-static char *pass = "JockeMimmiFelixAnton"; // IoT2018!
+static char *ssid = "WIFI NAME"; //IoT
+static char *pass = "WIFI PASS"; // IoT2018!
 
 bool ButtonOnPush = false;
 bool ButtonOffPush = false;
